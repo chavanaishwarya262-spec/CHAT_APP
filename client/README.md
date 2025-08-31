@@ -1,12 +1,118 @@
-# React + Vite
+# CHAT_APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CHAT_APP** is a real-time chat application built with **React.js** and **Socket.IO**, enabling seamless communication between users.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+*Deployed version:* [chat-app-backend-chi-lac.vercel.app](https://chat-app-backend-chi-lac.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📖 Table of Contents
+
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 📌 Overview
+
+CHAT_APP is a modern chat application that allows users to send and receive messages in real-time. Built with React.js on the frontend and Socket.IO on the backend, it provides a responsive and interactive user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** Node.js with Socket.IO
+- **Styling:** (Add your styling framework here, e.g., Tailwind CSS, Bootstrap)
+- **Deployment:** Vercel
+
+---
+
+## ✨ Features
+
+- Real-time messaging with Socket.IO
+- User authentication (if implemented)
+- Responsive design for mobile and desktop
+- (Add any other features your application includes)
+
+---
+
+## 📸 Screenshots
+
+*(Add your screenshots inside an `images/` folder and update the paths below)*
+
+| Description         | Preview                        |
+|---------------------|--------------------------------|
+| **Homepage**        | ![Homepage](/images/HOMPAGE.png) |
+| **Loginpage**        | ![Homepage](/images/LOGIN.png) |
+| **Chat Interface**  | ![Chat](/images/CHAT.png) |
+| **ProfilePage**        | ![Homepage](/images/PROFILE.png.png) |
+
+---
+
+## ⚡ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/chavanaishwarya262-spec/CHAT_APP.git
+cd CHAT_APP
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Open http://localhost:3000 in your browser to view the application.
+
+🎮 Usage
+Open the application in your browser.
+
+Enter your username to join the chat.
+
+Start sending and receiving messages in real-time.
+
+(Add any additional usage instructions here)
+
+📂 Folder Structure
+bash
+Copy code
+CHAT_APP/
+│
+├── client/             # Frontend React application
+├── server/             # Backend Node.js with Socket.IO
+├── images/             # Project screenshots
+├── package.json        # Project dependencies and scripts
+└── README.md           # Project documentation
+🤝 Contributing
+Contributions are welcome! To contribute:
+
+Fork the repository
+
+Create a new branch: git checkout -b feature/your-feature
+
+Make your changes
+
+Commit your changes: git commit -m "Add your feature"
+
+Push to the branch: git push origin feature/your-feature
+
+Open a Pull Request
+
+👩‍💻 Author
+Created by Aishwarya Chavana – feel free to connect!
