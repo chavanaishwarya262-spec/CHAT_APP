@@ -57,7 +57,7 @@ CHAT_APP is a modern chat application that allows users to send and receive mess
 | **Homepage**        | ![Homepage](/images/HOMPAGE.png) |
 | **Loginpage**        | ![Homepage](/images/LOGIN.png) |
 | **Chat Interface**  | ![Chat](/images/CHAT.png) |
-| **ProfilePage**        | ![Homepage](/images/PROFILE.png.png) |
+| **ProfilePage**        | ![Homepage](/images/PROFILE.png) |
 
 ---
 
